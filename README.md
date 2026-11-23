@@ -27,7 +27,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | ⚖️ **[Laws RAG System](https://github.com/BerkKilincer-dev/Laws_rag_system)** | Closed-loop Turkish RAG assistant for legal and corporate documents. Data never leaves the company (KVKK-friendly). | LangChain · ChromaDB · BM25 hybrid search · Streamlit |
-| 🎞️ **[Sunumatik](https://github.com/BerkKilincer-dev/ai-presentation-generator)** | Turns a topic into a themed, image-rich PowerPoint deck, with a 24-case evaluation report on quality, cost and latency. | Gemini · python-pptx · Pydantic · Streamlit |
+| ⚡ **[Energy Anomaly CRM](https://github.com/BerkKilincer-dev/enerji-anomali)** | Monitors businesses' electricity meters, detects waste and faults, and turns every anomaly into a cost-estimated (TL) recommendation. Team capstone project, where I built the ML pipeline and the CRM backend. | LightGBM · FastAPI · TimescaleDB · MQTT · Docker · Claude |
 | 📈 **[Finto](https://github.com/BerkKilincer-dev/Finto)** | Borsa Istanbul (BIST) finance assistant with live tracking, a technical-analysis prediction engine and a voice AI assistant. | React 19 · Express · SQLite · Gemini |
 | 🌍 **[Translation & Localization Pipeline](https://github.com/BerkKilincer-dev/Language_translate_pipline)** | Raw translation, then cultural localization (currency, units, idioms, tone), then a diff of the changes. | DeepL · Claude · Python |
 | 🚗 **[Akıllı Trafik](https://github.com/BerkKilincer-dev/akilli_trafik)** | Self-driving cars that learn to drive through neuroevolution, with ray-cast sensors, checkpoints and a saved champion brain. | Rust · Bevy · egui · Rayon |
